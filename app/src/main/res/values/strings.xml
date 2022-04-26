@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CameraProject</string>
+    <string name="selected_image">Imagem a Ser Selecionada Pelo Usuário</string>
+    <string name="chosen_image">Selecione Uma Imagem</string>
 </resources>
